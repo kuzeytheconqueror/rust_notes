@@ -5,3 +5,6 @@ $ curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh
 ```
 
 That is basically all to do. 
+
+## Related files 
+- hello_world_01

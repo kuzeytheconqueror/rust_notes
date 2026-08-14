@@ -31,3 +31,6 @@ Rust is not like JS or Python. Its not a dynamic programming language in that wa
 Rust is an **ahead-of-time compiled language**, meaning you can compile a program and give the executable to someone else, and they can run it even without having rust installed. 
 
 For Python or JS, you can run with one command. At the end it seems like it is a trade-off. 
+
+## Related files 
+- hello_world_01
