@@ -1,0 +1,1 @@
+/home/umay-samli/Desktop/notes/programing_languages/Rust/codes/building_cargo_project_03/target/debug/building_cargo_project_03: /home/umay-samli/Desktop/notes/programing_languages/Rust/codes/building_cargo_project_03/src/main.rs
