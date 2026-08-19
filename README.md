@@ -6,4 +6,3 @@ How note structured are written in details under "./obsidian_notes/"Rust Notes.m
 
 If you want, you can use for your own learning jurney. 
 Best of luck! 
-

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classic_Rust/02_Programing_a_guessing_game/029_Allowing Multiple Guesses with looping.md",
+                "file": "Classic_Rust/03_Common Programing Language Concepts/033_Data Types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "029_Allowing Multiple Guesses with looping"
+              "title": "033_Data Types"
             }
           }
         ]
@@ -190,22 +190,27 @@
   },
   "active": "b415d4087eee4325",
   "lastOpenFiles": [
-    "Classic_Rust/02_Programing_a_guessing_game/028_Comparing the guess to the secret Number.md",
+    "Classic_Rust/03_Common Programing Language Concepts/032_ Variables and Mutability.md",
+    "Classic_Rust/03_Common Programing Language Concepts/033_Data Types.md",
+    "Classic_Rust/03_Common Programing Language Concepts/031_Common Programing Concepts.md",
+    "Classic_Rust/04_d",
+    "Rust Notes.md",
+    "Classic_Rust/03_Common Programing Language Concepts",
     "Classic_Rust/02_Programing_a_guessing_game/029_Allowing Multiple Guesses with looping.md",
+    "Classic_Rust/02_Programing_a_guessing_game/022_Processing a Guess.md",
+    "Classic_Rust/02_Programing_a_guessing_game/021_ Setting up a New Project.md",
+    "Classic_Rust/01_Hello_World/005_Building and Running a Cargo Project.md",
+    "Classic_Rust/01_Hello_World/004_Hello Cargo!.md",
+    "Classic_Rust/01_Hello_World/003_  Anatomy of a Rust Program.md",
+    "Classic_Rust/01_Hello_World/002_Hello World.md",
+    "Classic_Rust/01_Hello_World/001_Creating the enviorment.md",
+    "Classic_Rust/02_Programing_a_guessing_game/028_Comparing the guess to the secret Number.md",
     "Classic_Rust/02_Programing_a_guessing_game/027_Generating a secret Number.md",
     "Classic_Rust/02_Programing_a_guessing_game/026_Printing Values with println! Placeholders.md",
     "Classic_Rust/02_Programing_a_guessing_game/025_Handling Potential Failure with Result.md",
-    "Classic_Rust/02_Programing_a_guessing_game/022_Processing a Guess.md",
-    "Classic_Rust/02_Programing_a_guessing_game/021_ Setting up a New Project.md",
     "Classic_Rust/02_Programing_a_guessing_game/024_Receiving User Input.md",
     "Classic_Rust/02_Programing_a_guessing_game/023_Storing Values with Variables.md",
-    "Classic_Rust/01_Hello_World/004_Hello Cargo!.md",
-    "Rust Notes.md",
-    "Classic_Rust/01_Hello_World/005_Building and Running a Cargo Project.md",
-    "Classic_Rust/01_Hello_World/002_Hello World.md",
     "Classic_Rust/02_Programing_a_guessing_game",
-    "Classic_Rust/01_Hello_World/003_  Anatomy of a Rust Program.md",
-    "Classic_Rust/01_Hello_World/001_Creating the enviorment.md",
     "Classic_Rust/01_Hello_World/Untitled",
     "Classic_Rust/01_Hello_World",
     "Classic_Rust"
