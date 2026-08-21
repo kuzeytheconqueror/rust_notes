@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classic_Rust/03_Common Programing Language Concepts/034_Functions.md",
+                "file": "Rust Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "034_Functions"
+              "title": "Rust Notes"
             }
           }
         ]
@@ -190,16 +190,21 @@
   },
   "active": "b415d4087eee4325",
   "lastOpenFiles": [
-    "Classic_Rust/03_Common Programing Language Concepts/033_Data Types.md",
-    "Classic_Rust/03_Common Programing Language Concepts/034_Functions.md",
+    "Classic_Rust/04_Understanding Ownership/041_What is ownership.md",
+    "Classic_Rust/04_Understanding Ownership/040_Understanding Ownership.md",
+    "Classic_Rust/03_Common Programing Language Concepts/035_Contol Flow.md",
+    "Classic_Rust/03_Common Programing Language Concepts/034_Comments.md",
+    "Classic_Rust/03_Common Programing Language Concepts/033_Functions.md",
+    "Classic_Rust/04_Understanding Ownership",
     "Rust Notes.md",
+    "Classic_Rust/03_Common Programing Language Concepts/032_Data Types.md",
     "Classic_Rust/01_Hello_World/005_Building and Running a Cargo Project.md",
     "Classic_Rust/01_Hello_World/004_Hello Cargo!.md",
     "Classic_Rust/01_Hello_World/003_  Anatomy of a Rust Program.md",
     "Classic_Rust/01_Hello_World/002_Hello World.md",
     "Classic_Rust/01_Hello_World/001_Creating the enviorment.md",
-    "Classic_Rust/03_Common Programing Language Concepts/031_Common Programing Concepts.md",
-    "Classic_Rust/03_Common Programing Language Concepts/032_ Variables and Mutability.md",
+    "Classic_Rust/03_Common Programing Language Concepts/030_Common Programing Concepts.md",
+    "Classic_Rust/03_Common Programing Language Concepts/031_ Variables and Mutability.md",
     "Classic_Rust/04_d",
     "Classic_Rust/03_Common Programing Language Concepts",
     "Classic_Rust/02_Programing_a_guessing_game/029_Allowing Multiple Guesses with looping.md",
