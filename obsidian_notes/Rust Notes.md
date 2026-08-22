@@ -5,3 +5,6 @@ This is the place that I will be taking my rust related notes. There will be no 
 ## Resource for these notes are
 - https://doc.rust-lang.org/stable/book/title-page.html **CURRENT MAIN RESOURCE**
 - https://rust-book.cs.brown.edu/ **NOT IN USE FOR NOW, WILL BE SUPLIER AT THE FEATURE.**
+
+## Current part we are at
+- Ownership and Functions
