@@ -427,3 +427,6 @@ You made it! This was a sizable chapter: You learned about variables, scalar and
 - Print the lyrics to the Christmas carol “The Twelve Days of Christmas,” taking advantage of the repetition in the song.
 
 When you’re ready to move on, we’ll talk about a concept in Rust that _doesn’t_ commonly exist in other programming languages: ownership.
+
+## Related files 
+- variables_05

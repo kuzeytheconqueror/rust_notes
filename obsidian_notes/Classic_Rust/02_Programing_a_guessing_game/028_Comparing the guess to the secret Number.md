@@ -117,3 +117,6 @@ Too big!
 Nice! Even though spaces were added before the guess, the program still figured out that the user guessed 76. Run the program a few times to verify the different behavior with different kinds of input: Guess the number correctly, guess a number that is too high, and guess a number that is too low.
 
 We have most of the game working now, but the user can make only one guess. Let’s change that by adding a loop!
+
+## Related files 
+- guessing_game_04

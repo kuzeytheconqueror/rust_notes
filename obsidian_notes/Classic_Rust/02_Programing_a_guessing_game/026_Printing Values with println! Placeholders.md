@@ -32,3 +32,6 @@ You guessed: 6
 ```
 
 At this point, the first part of the game is done: We’re getting input from the keyboard and then printing it.
+
+## Related files 
+- guessing_game_04

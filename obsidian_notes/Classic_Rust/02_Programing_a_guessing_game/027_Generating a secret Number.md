@@ -150,3 +150,6 @@ You guessed: 5
 ```
 
 You should get different random numbers, and they should all be numbers between 1 and 100. Great job!
+
+## Related files 
+- guessing_game_04

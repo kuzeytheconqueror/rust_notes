@@ -159,3 +159,6 @@ error: could not compile `variables` (bin "variables") due to 1 previous error
 ```
 
 Now that we’ve explored how variables work, let’s look at more data types they can have.
+
+## Related files 
+- variables_05

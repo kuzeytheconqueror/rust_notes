@@ -45,3 +45,6 @@ warning: `guessing_game` (bin "guessing_game") generated 1 warning
 Rust warns that you haven’t used the `Result` value returned from `read_line`, indicating that the program hasn’t handled a possible error.
 
 The right way to suppress the warning is to actually write error-handling code, but in our case we just want to crash this program when a problem occurs, so we can use `expect`. You’ll learn about recovering from errors in [Chapter 9](https://doc.rust-lang.org/stable/book/ch09-02-recoverable-errors-with-result.html).
+
+## Related files 
+- guessing_game_04
