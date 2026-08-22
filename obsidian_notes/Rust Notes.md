@@ -7,4 +7,4 @@ This is the place that I will be taking my rust related notes. There will be no 
 - https://rust-book.cs.brown.edu/ **NOT IN USE FOR NOW, WILL BE SUPLIER AT THE FEATURE.**
 
 ## Current part we are at
-- Ownership and Functions
+- 5.1

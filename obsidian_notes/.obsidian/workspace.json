@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classic_Rust/05_Using Structs to Structure Related Data/050_Using Structs to Structure Related Data.md",
+                "file": "Rust Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "050_Using Structs to Structure Related Data"
+              "title": "Rust Notes"
             }
           }
         ],
@@ -205,13 +205,13 @@
   },
   "active": "9051b8a24613d835",
   "lastOpenFiles": [
+    "Classic_Rust/05_Using Structs to Structure Related Data/051_Defining and Instantiating Structs.md",
+    "Classic_Rust/05_Using Structs to Structure Related Data/050_Using Structs to Structure Related Data.md",
     "Classic_Rust/04_Understanding Ownership/043_ The Slice Type.md",
     "Classic_Rust/04_Understanding Ownership/042_References and Borrowing.md",
     "Classic_Rust/04_Understanding Ownership/041_What is ownership.md",
     "Classic_Rust/04_Understanding Ownership/040_Understanding Ownership.md",
     "Classic_Rust/03_Common Programing Language Concepts/035_Contol Flow.md",
-    "Classic_Rust/05_Using Structs to Structure Related Data/050_Using Structs to Structure Related Data.md",
-    "Classic_Rust/05_Using Structs to Structure Related Data/051_Defining and Instantiating Structs.md",
     "Classic_Rust/03_Common Programing Language Concepts/034_Comments.md",
     "Classic_Rust/03_Common Programing Language Concepts/033_Functions.md",
     "Classic_Rust/03_Common Programing Language Concepts/032_Data Types.md",
