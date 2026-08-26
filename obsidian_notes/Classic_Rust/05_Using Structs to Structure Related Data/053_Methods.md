@@ -178,5 +178,16 @@ Structs let you create custom types that are meaningful for your domain. By usin
 
 But structs aren’t the only way you can create custom types: Let’s turn to Rust’s enum feature to add another tool to your toolbox.
 
-## Related Files
+## Related files 
 - methods_09
+
+---
+
+> [!tip] Related Notes
+> - [[050_Using Structs to Structure Related Data|050 Using Structs to Structure Related Data]] — the chapter this belongs to
+> - [[052_An example program Using Structs|052 An example program Using Structs]] — the program refactored with methods here
+> - [[060_Enums and Pattern Matching|060 Enums and Pattern Matching]] — the next chapter
+
+---
+
+← [[052_An example program Using Structs|052 An example program Using Structs]] · [[Rust Notes|⌂ Rust Notes]] · [[060_Enums and Pattern Matching|060 Enums and Pattern Matching]] →

@@ -218,6 +218,8 @@ help: consider introducing a named lifetime parameter
 >In Chapter 10, we’ll discuss how to fix these errors so that you can store references in structs, but for now, we’ll fix errors like these using owned types like `String` instead of references like `&str`.
 
 
+## Related files 
+- structs_07
 
 ---
 
@@ -229,7 +231,4 @@ help: consider introducing a named lifetime parameter
 
 ---
 
-← [[050_Using Structs to Structure Related Data|050 Using Structs to Structure Related Data]] · [[Rust Notes|⌂ Rust Notes]]
-
-## Related programs
-- structs_07
+← [[050_Using Structs to Structure Related Data|050 Using Structs to Structure Related Data]] · [[Rust Notes|⌂ Rust Notes]] · [[052_An example program Using Structs|052 An example program Using Structs]] →

@@ -48,6 +48,12 @@ This is the place that I will be taking my rust related notes. There will be no 
 > [!abstract] 05 Using Structs to Structure Related Data
 > - [[050_Using Structs to Structure Related Data|050 Using Structs to Structure Related Data]]
 > - [[051_Defining and Instantiating Structs|051 Defining and Instantiating Structs]]
+> - [[052_An example program Using Structs|052 An example program Using Structs]]
+> - [[053_Methods|053 Methods]]
+
+> [!abstract] 06 Enums and Pattern Matching
+> - [[060_Enums and Pattern Matching|060 Enums and Pattern Matching]]
+> - [[061_Defining an Enum|061 Defining an Enum]]
 
 ---
 

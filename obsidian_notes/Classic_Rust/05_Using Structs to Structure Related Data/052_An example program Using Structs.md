@@ -242,5 +242,16 @@ In addition to the `Debug` trait, Rust has provided a number of traits for us 
 Our `area` function is very specific: It only computes the area of rectangles. It would be helpful to tie this behavior more closely to our `Rectangle` struct because it won’t work with any other type. Let’s look at how we can continue to refactor this code by turning the `area` function into an `area` method defined on our `Rectangle` type.
 
 
-## Related Programs
+## Related files 
 - example_struct_08
+
+---
+
+> [!tip] Related Notes
+> - [[050_Using Structs to Structure Related Data|050 Using Structs to Structure Related Data]] — the chapter this belongs to
+> - [[051_Defining and Instantiating Structs|051 Defining and Instantiating Structs]] — the struct syntax used in this program
+> - [[053_Methods|053 Methods]] — the next refactoring step: turning `area` into a method
+
+---
+
+← [[051_Defining and Instantiating Structs|051 Defining and Instantiating Structs]] · [[Rust Notes|⌂ Rust Notes]] · [[053_Methods|053 Methods]] →

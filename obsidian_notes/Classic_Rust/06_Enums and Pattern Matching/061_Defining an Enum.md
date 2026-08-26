@@ -59,3 +59,17 @@ Using enums has even more advantages. Thinking more about our IP address type, a
         address: String::from("::1"),
     };
 ```
+
+
+## Related files 
+- enum_10
+
+---
+
+> [!tip] Related Notes
+> - [[060_Enums and Pattern Matching|060 Enums and Pattern Matching]] — the chapter this belongs to
+> - [[051_Defining and Instantiating Structs|051 Defining and Instantiating Structs]] — structs, contrasted with enums here
+
+---
+
+← [[060_Enums and Pattern Matching|060 Enums and Pattern Matching]] · [[Rust Notes|⌂ Rust Notes]]
