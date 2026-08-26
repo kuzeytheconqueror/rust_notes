@@ -304,3 +304,16 @@ This is an example of Rust’s memory safety principles in action. In many low-l
 
 ## Related files 
 - variables_05
+
+---
+
+> [!tip] Related Notes
+> - [[030_Common Programing Concepts|030 Common Programing Concepts]] — the chapter this belongs to
+> - [[031_ Variables and Mutability|031 Variables and Mutability]] — variables holding these types
+> - [[033_Functions|033 Functions]] — type annotations in function signatures
+> - [[041_What is ownership|041 What is ownership]] — the `String` type and heap data
+> - [[043_ The Slice Type|043 The Slice Type]] — referencing sequences of these types
+
+---
+
+← [[031_ Variables and Mutability|031 Variables and Mutability]] · [[Rust Notes|⌂ Rust Notes]] · [[033_Functions|033 Functions]] →

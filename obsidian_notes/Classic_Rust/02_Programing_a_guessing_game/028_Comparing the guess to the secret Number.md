@@ -120,3 +120,15 @@ We have most of the game working now, but the user can make only one guess. Let�
 
 ## Related files 
 - guessing_game_04
+
+---
+
+> [!tip] Related Notes
+> - [[027_Generating a secret Number|027 Generating a secret Number]] — where the secret number comes from
+> - [[025_Handling Potential Failure with Result|025 Handling Potential Failure with Result]] — `match` on enums, used here with `Ordering`
+> - [[035_Contol Flow|035 Contol Flow]] — `if`/`else` and `match` in depth
+> - [[029_Allowing Multiple Guesses with looping|029 Allowing Multiple Guesses with looping]] — the next step: repeating the comparison
+
+---
+
+← [[027_Generating a secret Number|027 Generating a secret Number]] · [[Rust Notes|⌂ Rust Notes]] · [[029_Allowing Multiple Guesses with looping|029 Allowing Multiple Guesses with looping]] →

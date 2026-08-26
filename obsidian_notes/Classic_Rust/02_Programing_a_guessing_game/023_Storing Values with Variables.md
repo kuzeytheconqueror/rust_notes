@@ -29,3 +29,14 @@ In full, the `let mut guess = String::new();` line has created a mutable variabl
 
 ## Related files 
 - guessing_game_04
+
+---
+
+> [!tip] Related Notes
+> - [[022_Processing a Guess|022 Processing a Guess]] — where these variables are used
+> - [[031_ Variables and Mutability|031 Variables and Mutability]] — variables and `mut` in depth
+> - [[026_Printing Values with println! Placeholders|026 Printing Values with println! Placeholders]] — printing the stored values
+
+---
+
+← [[022_Processing a Guess|022 Processing a Guess]] · [[Rust Notes|⌂ Rust Notes]] · [[024_Receiving User Input|024 Receiving User Input]] →

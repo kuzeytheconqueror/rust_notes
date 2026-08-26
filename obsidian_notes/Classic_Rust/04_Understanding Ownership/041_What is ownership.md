@@ -351,3 +351,16 @@ But this is too much ceremony and a lot of work for a concept that should be com
 ## Related files 
 - ownership_06
 	- The issue is there were a lot of topic covered. So this was more like a testing pad then the notes. So its related but not that much. take this as a note.
+
+---
+
+> [!tip] Related Notes
+> - [[040_Understanding Ownership|040 Understanding Ownership]] — the chapter this belongs to
+> - [[031_ Variables and Mutability|031 Variables and Mutability]] — variables and scope revisited here
+> - [[032_Data Types|032 Data Types]] — the `String` type introduced from the heap side
+> - [[042_References and Borrowing|042 References and Borrowing]] — accessing data without taking ownership
+> - [[043_ The Slice Type|043 The Slice Type]] — references to parts of a collection
+
+---
+
+← [[040_Understanding Ownership|040 Understanding Ownership]] · [[Rust Notes|⌂ Rust Notes]] · [[042_References and Borrowing|042 References and Borrowing]] →

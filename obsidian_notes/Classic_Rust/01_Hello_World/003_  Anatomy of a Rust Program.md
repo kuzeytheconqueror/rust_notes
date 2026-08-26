@@ -34,3 +34,14 @@ For Python or JS, you can run with one command. At the end it seems like it is a
 
 ## Related files 
 - hello_world_01
+
+---
+
+> [!tip] Related Notes
+> - [[002_Hello World|002 Hello World]] — the program being dissected here
+> - [[033_Functions|033 Functions]] — more on the `main` function and defining your own
+> - [[026_Printing Values with println! Placeholders|026 Printing Values with println! Placeholders]] — more on the `println!` macro
+
+---
+
+← [[002_Hello World|002 Hello World]] · [[Rust Notes|⌂ Rust Notes]] · [[004_Hello Cargo!|004 Hello Cargo!]] →

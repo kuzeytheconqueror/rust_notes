@@ -35,3 +35,14 @@ At this point, the first part of the game is done: We’re getting input from th
 
 ## Related files 
 - guessing_game_04
+
+---
+
+> [!tip] Related Notes
+> - [[022_Processing a Guess|022 Processing a Guess]] — the program using these placeholders
+> - [[003_  Anatomy of a Rust Program|003 Anatomy of a Rust Program]] — first look at the `println!` macro
+> - [[023_Storing Values with Variables|023 Storing Values with Variables]] — the values being printed
+
+---
+
+← [[025_Handling Potential Failure with Result|025 Handling Potential Failure with Result]] · [[Rust Notes|⌂ Rust Notes]] · [[027_Generating a secret Number|027 Generating a secret Number]] →

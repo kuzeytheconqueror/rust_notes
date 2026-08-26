@@ -38,3 +38,14 @@ If you started a project that doesn’t use Cargo, as we did with the “Hello, 
 
 ## Related files 
 - hello_cargo_02
+
+---
+
+> [!tip] Related Notes
+> - [[001_Creating the enviorment|001 Creating the enviorment]] — where Cargo was installed
+> - [[005_Building and Running a Cargo Project|005 Building and Running a Cargo Project]] — the next steps after `cargo new`
+> - [[021_ Setting up a New Project|021 Setting up a New Project]] — using Cargo to start the guessing game
+
+---
+
+← [[003_  Anatomy of a Rust Program|003 Anatomy of a Rust Program]] · [[Rust Notes|⌂ Rust Notes]] · [[005_Building and Running a Cargo Project|005 Building and Running a Cargo Project]] →

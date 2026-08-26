@@ -162,3 +162,15 @@ Now that we’ve explored how variables work, let’s look at more data types th
 
 ## Related files 
 - variables_05
+
+---
+
+> [!tip] Related Notes
+> - [[030_Common Programing Concepts|030 Common Programing Concepts]] — the chapter this belongs to
+> - [[023_Storing Values with Variables|023 Storing Values with Variables]] — first contact with `let` in the guessing game
+> - [[032_Data Types|032 Data Types]] — the types these variables can hold
+> - [[041_What is ownership|041 What is ownership]] — what happens to variables under ownership rules
+
+---
+
+← [[030_Common Programing Concepts|030 Common Programing Concepts]] · [[Rust Notes|⌂ Rust Notes]] · [[032_Data Types|032 Data Types]] →

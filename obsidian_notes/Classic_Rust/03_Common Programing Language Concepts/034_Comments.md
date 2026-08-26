@@ -38,3 +38,13 @@ Rust also has another kind of comment, documentation comments, which we’ll dis
 
 ## Related files 
 - variables_05
+
+---
+
+> [!tip] Related Notes
+> - [[030_Common Programing Concepts|030 Common Programing Concepts]] — the chapter this belongs to
+> - [[033_Functions|033 Functions]] — documenting the functions you write
+
+---
+
+← [[033_Functions|033 Functions]] · [[Rust Notes|⌂ Rust Notes]] · [[035_Contol Flow|035 Contol Flow]] →

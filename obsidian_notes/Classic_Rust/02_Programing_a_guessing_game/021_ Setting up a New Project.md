@@ -34,3 +34,14 @@ Hello, world!
 
 ## Related files 
 - guessing_game_04
+
+---
+
+> [!tip] Related Notes
+> - [[004_Hello Cargo!|004 Hello Cargo!]] — the Cargo basics used here
+> - [[005_Building and Running a Cargo Project|005 Building and Running a Cargo Project]] — building and running this project
+> - [[022_Processing a Guess|022 Processing a Guess]] — the first code written in this project
+
+---
+
+← [[005_Building and Running a Cargo Project|005 Building and Running a Cargo Project]] · [[Rust Notes|⌂ Rust Notes]] · [[022_Processing a Guess|022 Processing a Guess]] →

@@ -288,3 +288,15 @@ Ownership affects how lots of other parts of Rust work, so we’ll talk about th
 ## Related files 
 - ownership_06
 	- The issue is there were a lot of topic covered. So this was more like a testing pad then the notes. So its related but not that much. take this as a note.
+
+---
+
+> [!tip] Related Notes
+> - [[040_Understanding Ownership|040 Understanding Ownership]] — the chapter this belongs to
+> - [[042_References and Borrowing|042 References and Borrowing]] — slices build directly on references
+> - [[041_What is ownership|041 What is ownership]] — the `String` type being sliced
+> - [[032_Data Types|032 Data Types]] — arrays, the other thing you can slice
+
+---
+
+← [[042_References and Borrowing|042 References and Borrowing]] · [[Rust Notes|⌂ Rust Notes]] · [[050_Using Structs to Structure Related Data|050 Using Structs to Structure Related Data]] →

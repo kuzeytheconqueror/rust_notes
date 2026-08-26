@@ -48,3 +48,15 @@ As you also learned in Chapter 1, `println!` is a macro that prints a string to 
 
 ## Related files 
 - guessing_game_04
+
+---
+
+> [!tip] Related Notes
+> - [[021_ Setting up a New Project|021 Setting up a New Project]] — the project this code lives in
+> - [[023_Storing Values with Variables|023 Storing Values with Variables]] — the `let` binding introduced here
+> - [[024_Receiving User Input|024 Receiving User Input]] — the `stdin` part of this code
+> - [[025_Handling Potential Failure with Result|025 Handling Potential Failure with Result]] — the `Result` returned by `read_line`
+
+---
+
+← [[021_ Setting up a New Project|021 Setting up a New Project]] · [[Rust Notes|⌂ Rust Notes]] · [[023_Storing Values with Variables|023 Storing Values with Variables]] →

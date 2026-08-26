@@ -1,0 +1,1 @@
+/home/umay-samli/Desktop/notes/programing_languages/Rust/codes/example_struct_08/target/debug/example_struct_08: /home/umay-samli/Desktop/notes/programing_languages/Rust/codes/example_struct_08/src/main.rs

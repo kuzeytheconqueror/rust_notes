@@ -268,3 +268,16 @@ The main error message, `mismatched types`, reveals the core issue with this cod
 
 ## Related files 
 - variables_05
+
+---
+
+> [!tip] Related Notes
+> - [[030_Common Programing Concepts|030 Common Programing Concepts]] — the chapter this belongs to
+> - [[003_  Anatomy of a Rust Program|003 Anatomy of a Rust Program]] — first look at `main`
+> - [[032_Data Types|032 Data Types]] — types used in parameters and return values
+> - [[035_Contol Flow|035 Contol Flow]] — controlling what a function does
+> - [[041_What is ownership|041 What is ownership]] — ownership and functions
+
+---
+
+← [[032_Data Types|032 Data Types]] · [[Rust Notes|⌂ Rust Notes]] · [[034_Comments|034 Comments]] →

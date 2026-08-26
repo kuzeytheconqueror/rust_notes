@@ -58,3 +58,14 @@ When your project is finally ready for release, you can use `cargo build --relea
 
 ## Related files 
 - building_cargo_project_03
+
+---
+
+> [!tip] Related Notes
+> - [[004_Hello Cargo!|004 Hello Cargo!]] — creating the project this note builds on
+> - [[021_ Setting up a New Project|021 Setting up a New Project]] — applying this to the guessing game
+> - [[027_Generating a secret Number|027 Generating a secret Number]] — adding external crates to a Cargo project
+
+---
+
+← [[004_Hello Cargo!|004 Hello Cargo!]] · [[Rust Notes|⌂ Rust Notes]] · [[021_ Setting up a New Project|021 Setting up a New Project]] →

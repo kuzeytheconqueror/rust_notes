@@ -153,3 +153,14 @@ You should get different random numbers, and they should all be numbers between 
 
 ## Related files 
 - guessing_game_04
+
+---
+
+> [!tip] Related Notes
+> - [[005_Building and Running a Cargo Project|005 Building and Running a Cargo Project]] — `Cargo.toml` and the build commands used here
+> - [[028_Comparing the guess to the secret Number|028 Comparing the guess to the secret Number]] — using the generated number
+> - [[032_Data Types|032 Data Types]] — the integer types behind the secret number
+
+---
+
+← [[026_Printing Values with println! Placeholders|026 Printing Values with println! Placeholders]] · [[Rust Notes|⌂ Rust Notes]] · [[028_Comparing the guess to the secret Number|028 Comparing the guess to the secret Number]] →

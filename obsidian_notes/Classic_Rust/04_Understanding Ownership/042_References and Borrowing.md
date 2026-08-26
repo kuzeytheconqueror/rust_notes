@@ -303,3 +303,14 @@ Next, we’ll look at a different kind of reference: slices.
 ## Related files 
 - ownership_06
 	- The issue is there were a lot of topic covered. So this was more like a testing pad then the notes. So its related but not that much. take this as a note.
+
+---
+
+> [!tip] Related Notes
+> - [[040_Understanding Ownership|040 Understanding Ownership]] — the chapter this belongs to
+> - [[041_What is ownership|041 What is ownership]] — the move semantics references help you avoid
+> - [[043_ The Slice Type|043 The Slice Type]] — a special kind of reference
+
+---
+
+← [[041_What is ownership|041 What is ownership]] · [[Rust Notes|⌂ Rust Notes]] · [[043_ The Slice Type|043 The Slice Type]] →

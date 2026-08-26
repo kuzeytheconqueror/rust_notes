@@ -48,3 +48,14 @@ The right way to suppress the warning is to actually write error-handling code, 
 
 ## Related files 
 - guessing_game_04
+
+---
+
+> [!tip] Related Notes
+> - [[024_Receiving User Input|024 Receiving User Input]] — the `read_line` call that returns this `Result`
+> - [[028_Comparing the guess to the secret Number|028 Comparing the guess to the secret Number]] — `match` used again for comparison
+> - [[029_Allowing Multiple Guesses with looping|029 Allowing Multiple Guesses with looping]] — handling invalid input without crashing
+
+---
+
+← [[024_Receiving User Input|024 Receiving User Input]] · [[Rust Notes|⌂ Rust Notes]] · [[026_Printing Values with println! Placeholders|026 Printing Values with println! Placeholders]] →

@@ -12,3 +12,14 @@ Next, the line `.read_line(&mut guess)` calls the [`read_line`](https://doc.rust
 The `&` indicates that this argument is a _reference_, which gives you a way to let multiple parts of your code access one piece of data without needing to copy that data into memory multiple times. References are a complex feature, and one of Rust’s major advantages is how safe and easy it is to use references. You don’t need to know a lot of those details to finish this program. For now, all you need to know is that, like variables, references are immutable by default. Hence, you need to write `&mut guess` rather than `&guess` to make it mutable. (Chapter 4 will explain references more thoroughly.)
 ## Related files 
 - guessing_game_04
+
+---
+
+> [!tip] Related Notes
+> - [[022_Processing a Guess|022 Processing a Guess]] — the full program this belongs to
+> - [[025_Handling Potential Failure with Result|025 Handling Potential Failure with Result]] — handling what `read_line` returns
+> - [[023_Storing Values with Variables|023 Storing Values with Variables]] — where the input is stored
+
+---
+
+← [[023_Storing Values with Variables|023 Storing Values with Variables]] · [[Rust Notes|⌂ Rust Notes]] · [[025_Handling Potential Failure with Result|025 Handling Potential Failure with Result]] →

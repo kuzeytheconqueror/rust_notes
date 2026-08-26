@@ -180,3 +180,14 @@ This project was a hands-on way to introduce you to many new Rust concepts: `let
 
 ## Related files 
 - guessing_game_04
+
+---
+
+> [!tip] Related Notes
+> - [[028_Comparing the guess to the secret Number|028 Comparing the guess to the secret Number]] — the comparison being looped over
+> - [[035_Contol Flow|035 Contol Flow]] — `loop`, `break` and `continue` in depth
+> - [[025_Handling Potential Failure with Result|025 Handling Potential Failure with Result]] — the `Result` handling refined here
+
+---
+
+← [[028_Comparing the guess to the secret Number|028 Comparing the guess to the secret Number]] · [[Rust Notes|⌂ Rust Notes]] · [[030_Common Programing Concepts|030 Common Programing Concepts]] →

@@ -7,3 +7,20 @@ Specifically, you’ll learn about variables, basic types, functions, comments, 
 
 ## Related files 
 - variables_05
+
+---
+
+> [!tip] Related Notes
+> This chapter covers:
+> - [[031_ Variables and Mutability|031 Variables and Mutability]]
+> - [[032_Data Types|032 Data Types]]
+> - [[033_Functions|033 Functions]]
+> - [[034_Comments|034 Comments]]
+> - [[035_Contol Flow|035 Contol Flow]]
+> 
+> See also:
+> - [[023_Storing Values with Variables|023 Storing Values with Variables]] — first contact with `let` in the guessing game
+
+---
+
+← [[029_Allowing Multiple Guesses with looping|029 Allowing Multiple Guesses with looping]] · [[Rust Notes|⌂ Rust Notes]] · [[031_ Variables and Mutability|031 Variables and Mutability]] →

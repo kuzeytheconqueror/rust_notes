@@ -430,3 +430,15 @@ When you’re ready to move on, we’ll talk about a concept in Rust that _doesn
 
 ## Related files 
 - variables_05
+
+---
+
+> [!tip] Related Notes
+> - [[030_Common Programing Concepts|030 Common Programing Concepts]] — the chapter this belongs to
+> - [[033_Functions|033 Functions]] — where this control flow lives
+> - [[028_Comparing the guess to the secret Number|028 Comparing the guess to the secret Number]] — `if`/`else` and `match` in action
+> - [[029_Allowing Multiple Guesses with looping|029 Allowing Multiple Guesses with looping]] — `loop`, `break` and `continue` in action
+
+---
+
+← [[034_Comments|034 Comments]] · [[Rust Notes|⌂ Rust Notes]] · [[040_Understanding Ownership|040 Understanding Ownership]] →
