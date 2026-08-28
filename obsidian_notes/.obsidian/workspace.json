@@ -25,14 +25,12 @@
             "id": "9051b8a24613d835",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Rust Notes.md",
-                "mode": "source",
-                "source": false
+                "file": "Classic_Rust/images_inside_notes/rust_book/trpl17-09.svg"
               },
-              "icon": "lucide-file",
-              "title": "Rust Notes"
+              "icon": "lucide-image",
+              "title": "trpl17-09"
             }
           }
         ],
@@ -205,20 +203,27 @@
   },
   "active": "9051b8a24613d835",
   "lastOpenFiles": [
+    "Classic_Rust/images_inside_notes/rust_book/trpl17-05.svg",
+    "Classic_Rust/images_inside_notes/rust_book/trpl17-01.svg",
+    "Classic_Rust/images_inside_notes/rust_book/trpl15-03.svg",
+    "Classic_Rust/images_inside_notes/rust_book/trpl14-02.png",
+    "Classic_Rust/images_inside_notes/rust_book/trpl14-01.png",
+    "Classic_Rust/18_Object Oriented Programming Features/180_Object Oriented Programming Features.md",
+    "Classic_Rust/17_Fundamentals of Asynchronous Programming - Async, Await, Futures, and Streams/170_Fundamentals of Asynchronous Programming - Async, Await, Futures, and Streams.md",
+    "Rust Notes.md",
+    "Classic_Rust/04_Understanding Ownership/041_What is ownership.md",
+    "Classic_Rust/04_Understanding Ownership/040_Understanding Ownership.md",
+    "Classic_Rust/05_Using Structs to Structure Related Data/050_Using Structs to Structure Related Data.md",
     "Classic_Rust/06_Enums and Pattern Matching/062_The Match Control Flow Construct.md",
     "Classic_Rust/06_Enums and Pattern Matching/060_Enums and Pattern Matching.md",
     "Classic_Rust/06_Enums and Pattern Matching/061_Defining an Enum.md",
-    "Rust Notes.md",
     "Classic_Rust/04_Understanding Ownership/042_References and Borrowing.md",
-    "Classic_Rust/04_Understanding Ownership/041_What is ownership.md",
     "Classic_Rust/05_Using Structs to Structure Related Data/053_Methods.md",
     "Classic_Rust/06_Enums and Pattern Matching/061_Defining and Enum.md",
     "Classic_Rust/Untitled.md",
     "Classic_Rust/06_Enums and Pattern Matching",
     "Classic_Rust/05_Using Structs to Structure Related Data/052_An example program Using Structs.md",
     "Classic_Rust/05_Using Structs to Structure Related Data/051_Defining and Instantiating Structs.md",
-    "Classic_Rust/05_Using Structs to Structure Related Data/050_Using Structs to Structure Related Data.md",
-    "Classic_Rust/04_Understanding Ownership/040_Understanding Ownership.md",
     "Classic_Rust/01_Hello_World/001_Creating the enviorment.md",
     "Classic_Rust/01_Hello_World/002_Hello World.md",
     "Classic_Rust/04_Understanding Ownership/043_ The Slice Type.md",
@@ -229,9 +234,6 @@
     "Classic_Rust/03_Common Programing Language Concepts/031_ Variables and Mutability.md",
     "Classic_Rust/03_Common Programing Language Concepts/030_Common Programing Concepts.md",
     "Classic_Rust/02_Programing_a_guessing_game/029_Allowing Multiple Guesses with looping.md",
-    "Classic_Rust/02_Programing_a_guessing_game/028_Comparing the guess to the secret Number.md",
-    "Classic_Rust/02_Programing_a_guessing_game/027_Generating a secret Number.md",
-    "Classic_Rust/02_Programing_a_guessing_game/026_Printing Values with println! Placeholders.md",
     "Classic_Rust/05_Using Structs to Structure Related Data",
     "Classic_Rust/images_inside_notes/Screenshot from 2026-08-23 00-29-05.png",
     "Classic_Rust/images_inside_notes/Screenshot from 2026-08-22 23-37-32.png",
@@ -239,7 +241,6 @@
     "Classic_Rust/images_inside_notes/Screenshot from 2026-08-22 20-39-55.png",
     "Classic_Rust/images_inside_notes/Screenshot from 2026-08-22 20-36-36.png",
     "Classic_Rust/images_inside_notes/Screenshot from 2026-08-22 20-35-30.png",
-    "Classic_Rust/images_inside_notes/Screenshot from 2026-08-22 20-31-04.png",
     "Classic_Rust/images_inside_notes",
     "Classic_Rust/04_Understanding Ownership",
     "Classic_Rust/04_d",
