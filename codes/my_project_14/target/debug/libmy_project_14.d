@@ -1,0 +1,1 @@
+/home/umay-samli/Desktop/notes/programing_languages/Rust/codes/my_project_14/target/debug/libmy_project_14.rlib: /home/umay-samli/Desktop/notes/programing_languages/Rust/codes/my_project_14/src/lib.rs

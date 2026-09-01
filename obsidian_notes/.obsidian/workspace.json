@@ -25,12 +25,14 @@
             "id": "9051b8a24613d835",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Classic_Rust/images_inside_notes/rust_book/trpl17-09.svg"
+                "file": "Rust Notes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "trpl17-09"
+              "icon": "lucide-file",
+              "title": "Rust Notes"
             }
           }
         ],
@@ -203,6 +205,7 @@
   },
   "active": "9051b8a24613d835",
   "lastOpenFiles": [
+    "Classic_Rust/images_inside_notes/rust_book/trpl17-09.svg",
     "Classic_Rust/images_inside_notes/rust_book/trpl17-05.svg",
     "Classic_Rust/images_inside_notes/rust_book/trpl17-01.svg",
     "Classic_Rust/images_inside_notes/rust_book/trpl15-03.svg",
@@ -240,7 +243,6 @@
     "Classic_Rust/images_inside_notes/Screenshot from 2026-08-22 20-42-21.png",
     "Classic_Rust/images_inside_notes/Screenshot from 2026-08-22 20-39-55.png",
     "Classic_Rust/images_inside_notes/Screenshot from 2026-08-22 20-36-36.png",
-    "Classic_Rust/images_inside_notes/Screenshot from 2026-08-22 20-35-30.png",
     "Classic_Rust/images_inside_notes",
     "Classic_Rust/04_Understanding Ownership",
     "Classic_Rust/04_d",

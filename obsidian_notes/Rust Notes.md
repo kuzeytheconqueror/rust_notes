@@ -7,7 +7,7 @@ This is the place that I will be taking my rust related notes. There will be no 
 - https://rust-book.cs.brown.edu/ **NOT IN USE FOR NOW, WILL BE SUPLIER AT THE FEATURE.**
 
 ## Current part we are at
-- 6.2 - ### [The `Option<T>` `match` Pattern](https://doc.rust-lang.org/stable/book/ch06-02-match.html#the-optiont-match-pattern) 
+- 7.3: ### [Making Structs and Enums Public](https://doc.rust-lang.org/stable/book/ch07-03-paths-for-referring-to-an-item-in-the-module-tree.html#making-structs-and-enums-public)
 
 ---
 
