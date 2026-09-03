@@ -7,7 +7,7 @@ This is the place that I will be taking my rust related notes. There will be no 
 - https://rust-book.cs.brown.edu/ **NOT IN USE FOR NOW, WILL BE SUPLIER AT THE FEATURE.**
 
 ## Current part we are at
-- 7.3: ### [Making Structs and Enums Public](https://doc.rust-lang.org/stable/book/ch07-03-paths-for-referring-to-an-item-in-the-module-tree.html#making-structs-and-enums-public)
+- 8 https://doc.rust-lang.org/stable/book/ch08-00-common-collections.html
 
 ---
 
