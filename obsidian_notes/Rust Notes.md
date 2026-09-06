@@ -7,7 +7,7 @@ This is the place that I will be taking my rust related notes. There will be no 
 - https://rust-book.cs.brown.edu/ **NOT IN USE FOR NOW, WILL BE SUPLIER AT THE FEATURE.**
 
 ## Current part we are at
-- 8 https://doc.rust-lang.org/stable/book/ch08-00-common-collections.html
+- 8.1 [Listing 8-8](https://doc.rust-lang.org/stable/book/ch08-01-vectors.html#listing-8-8): Iterating over mutable references to elements in a vector
 
 ---
 
