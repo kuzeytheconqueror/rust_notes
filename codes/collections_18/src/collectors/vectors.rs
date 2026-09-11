@@ -31,7 +31,7 @@ pub fn reading_data_from_vector() {
     let v = vec![1,2,3,4,5];
 
     let third: &i32 = &v[2];
-    pritnln!("The third element is {third}");
+    println!("The third element is {third}");
 
     let third: Option<&i32> = v.get(2);
 

@@ -1,0 +1,101 @@
+   0.006101289s  INFO prepare_target{force=false package_id=collections_18 v0.1.0 (/home/umay-samli/Desktop/notes/programing_languages/Rust/codes/collections_18) target="collections_18"}: cargo::core::compiler::fingerprint: stale: changed "/home/umay-samli/Desktop/notes/programing_languages/Rust/codes/collections_18/src/collectors/vectors.rs"
+   0.006112681s  INFO prepare_target{force=false package_id=collections_18 v0.1.0 (/home/umay-samli/Desktop/notes/programing_languages/Rust/codes/collections_18) target="collections_18"}: cargo::core::compiler::fingerprint:           (vs) "/home/umay-samli/Desktop/notes/programing_languages/Rust/codes/collections_18/target/debug/.fingerprint/collections_18-f100fa2996edfc62/dep-lib-collections_18"
+   0.006115003s  INFO prepare_target{force=false package_id=collections_18 v0.1.0 (/home/umay-samli/Desktop/notes/programing_languages/Rust/codes/collections_18) target="collections_18"}: cargo::core::compiler::fingerprint:                FileTime { seconds: 1788560065, nanos: 372576055 } < FileTime { seconds: 1788875666, nanos: 196566777 }
+   0.006147843s  INFO prepare_target{force=false package_id=collections_18 v0.1.0 (/home/umay-samli/Desktop/notes/programing_languages/Rust/codes/collections_18) target="collections_18"}: cargo::core::compiler::fingerprint: fingerprint dirty for collections_18 v0.1.0 (/home/umay-samli/Desktop/notes/programing_languages/Rust/codes/collections_18)/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("collections_18", ["lib"], "/home/umay-samli/Desktop/notes/programing_languages/Rust/codes/collections_18/src/lib.rs", Edition2024) }
+   0.006155690s  INFO prepare_target{force=false package_id=collections_18 v0.1.0 (/home/umay-samli/Desktop/notes/programing_languages/Rust/codes/collections_18) target="collections_18"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleItem(ChangedFile { reference: "/home/umay-samli/Desktop/notes/programing_languages/Rust/codes/collections_18/target/debug/.fingerprint/collections_18-f100fa2996edfc62/dep-lib-collections_18", reference_mtime: FileTime { seconds: 1788560065, nanos: 372576055 }, stale: "/home/umay-samli/Desktop/notes/programing_languages/Rust/codes/collections_18/src/collectors/vectors.rs", stale_mtime: FileTime { seconds: 1788875666, nanos: 196566777 } }))
+   0.006310377s  INFO prepare_target{force=false package_id=collections_18 v0.1.0 (/home/umay-samli/Desktop/notes/programing_languages/Rust/codes/collections_18) target="collections_18"}: cargo::core::compiler::fingerprint: fingerprint error for collections_18 v0.1.0 (/home/umay-samli/Desktop/notes/programing_languages/Rust/codes/collections_18)/Check { test: true }/TargetInner { name_inferred: true, ..: lib_target("collections_18", ["lib"], "/home/umay-samli/Desktop/notes/programing_languages/Rust/codes/collections_18/src/lib.rs", Edition2024) }
+   0.006315731s  INFO prepare_target{force=false package_id=collections_18 v0.1.0 (/home/umay-samli/Desktop/notes/programing_languages/Rust/codes/collections_18) target="collections_18"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/umay-samli/Desktop/notes/programing_languages/Rust/codes/collections_18/target/debug/.fingerprint/collections_18-33c1f0c9cca360f9/test-lib-collections_18`
+
+Caused by:
+    No such file or directory (os error 2)
+
+Stack backtrace:
+   0: cargo_util::paths::read_bytes
+   1: cargo_util::paths::read
+   2: cargo::core::compiler::fingerprint::_compare_old_fingerprint
+   3: cargo::core::compiler::fingerprint::prepare_target
+   4: cargo::core::compiler::compile
+   5: <cargo::core::compiler::build_runner::BuildRunner>::compile
+   6: cargo::ops::cargo_compile::compile_ws
+   7: cargo::ops::cargo_compile::compile_with_exec
+   8: cargo::ops::cargo_compile::compile
+   9: cargo::commands::check::exec
+  10: <cargo::cli::Exec>::exec
+  11: cargo::main
+  12: std::sys::backtrace::__rust_begin_short_backtrace::<fn(), ()>
+  13: std::rt::lang_start::<()>::{closure#0}
+  14: <&dyn core::ops::function::Fn<(), Output = i32> + core::panic::unwind_safe::RefUnwindSafe + core::marker::Sync as core::ops::function::FnOnce<()>>::call_once
+             at /rustc/8bab26f4f68e0e26f0bb7960be334d5b520ea452/library/core/src/ops/function.rs:287:21
+  15: std::panicking::catch_unwind::do_call::<&dyn core::ops::function::Fn<(), Output = i32> + core::panic::unwind_safe::RefUnwindSafe + core::marker::Sync, i32>
+             at /rustc/8bab26f4f68e0e26f0bb7960be334d5b520ea452/library/std/src/panicking.rs:581:40
+  16: std::panicking::catch_unwind::<i32, &dyn core::ops::function::Fn<(), Output = i32> + core::panic::unwind_safe::RefUnwindSafe + core::marker::Sync>
+             at /rustc/8bab26f4f68e0e26f0bb7960be334d5b520ea452/library/std/src/panicking.rs:544:19
+  17: std::panic::catch_unwind::<&dyn core::ops::function::Fn<(), Output = i32> + core::panic::unwind_safe::RefUnwindSafe + core::marker::Sync, i32>
+             at /rustc/8bab26f4f68e0e26f0bb7960be334d5b520ea452/library/std/src/panic.rs:359:14
+  18: std::rt::lang_start_internal::{closure#0}
+             at /rustc/8bab26f4f68e0e26f0bb7960be334d5b520ea452/library/std/src/rt.rs:175:24
+  19: std::panicking::catch_unwind::do_call::<std::rt::lang_start_internal::{closure#0}, isize>
+             at /rustc/8bab26f4f68e0e26f0bb7960be334d5b520ea452/library/std/src/panicking.rs:581:40
+  20: std::panicking::catch_unwind::<isize, std::rt::lang_start_internal::{closure#0}>
+             at /rustc/8bab26f4f68e0e26f0bb7960be334d5b520ea452/library/std/src/panicking.rs:544:19
+  21: std::panic::catch_unwind::<std::rt::lang_start_internal::{closure#0}, isize>
+             at /rustc/8bab26f4f68e0e26f0bb7960be334d5b520ea452/library/std/src/panic.rs:359:14
+  22: std::rt::lang_start_internal
+             at /rustc/8bab26f4f68e0e26f0bb7960be334d5b520ea452/library/std/src/rt.rs:171:5
+  23: main
+  24: __libc_start_call_main
+             at ./csu/../sysdeps/nptl/libc_start_call_main.h:58:16
+  25: __libc_start_main_impl
+             at ./csu/../csu/libc-start.c:360:3
+  26: <unknown>
+   0.046545824s  INFO prepare_target{force=false package_id=collections_18 v0.1.0 (/home/umay-samli/Desktop/notes/programing_languages/Rust/codes/collections_18) target="collections_18"}: cargo::core::compiler::fingerprint: fingerprint dirty for collections_18 v0.1.0 (/home/umay-samli/Desktop/notes/programing_languages/Rust/codes/collections_18)/Check { test: false }/TargetInner { name: "collections_18", doc: true, ..: with_path("/home/umay-samli/Desktop/notes/programing_languages/Rust/codes/collections_18/src/main.rs", Edition2024) }
+   0.046557409s  INFO prepare_target{force=false package_id=collections_18 v0.1.0 (/home/umay-samli/Desktop/notes/programing_languages/Rust/codes/collections_18) target="collections_18"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleDepFingerprint { unit: UnitIndex(0) })
+   0.046630987s  INFO prepare_target{force=false package_id=collections_18 v0.1.0 (/home/umay-samli/Desktop/notes/programing_languages/Rust/codes/collections_18) target="collections_18"}: cargo::core::compiler::fingerprint: fingerprint error for collections_18 v0.1.0 (/home/umay-samli/Desktop/notes/programing_languages/Rust/codes/collections_18)/Check { test: true }/TargetInner { name: "collections_18", doc: true, ..: with_path("/home/umay-samli/Desktop/notes/programing_languages/Rust/codes/collections_18/src/main.rs", Edition2024) }
+   0.046634609s  INFO prepare_target{force=false package_id=collections_18 v0.1.0 (/home/umay-samli/Desktop/notes/programing_languages/Rust/codes/collections_18) target="collections_18"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/umay-samli/Desktop/notes/programing_languages/Rust/codes/collections_18/target/debug/.fingerprint/collections_18-b9d20eec2798498c/test-bin-collections_18`
+
+Caused by:
+    No such file or directory (os error 2)
+
+Stack backtrace:
+   0: cargo_util::paths::read_bytes
+   1: cargo_util::paths::read
+   2: cargo::core::compiler::fingerprint::_compare_old_fingerprint
+   3: cargo::core::compiler::fingerprint::prepare_target
+   4: cargo::core::compiler::compile
+   5: <cargo::core::compiler::build_runner::BuildRunner>::compile
+   6: cargo::ops::cargo_compile::compile_ws
+   7: cargo::ops::cargo_compile::compile_with_exec
+   8: cargo::ops::cargo_compile::compile
+   9: cargo::commands::check::exec
+  10: <cargo::cli::Exec>::exec
+  11: cargo::main
+  12: std::sys::backtrace::__rust_begin_short_backtrace::<fn(), ()>
+  13: std::rt::lang_start::<()>::{closure#0}
+  14: <&dyn core::ops::function::Fn<(), Output = i32> + core::panic::unwind_safe::RefUnwindSafe + core::marker::Sync as core::ops::function::FnOnce<()>>::call_once
+             at /rustc/8bab26f4f68e0e26f0bb7960be334d5b520ea452/library/core/src/ops/function.rs:287:21
+  15: std::panicking::catch_unwind::do_call::<&dyn core::ops::function::Fn<(), Output = i32> + core::panic::unwind_safe::RefUnwindSafe + core::marker::Sync, i32>
+             at /rustc/8bab26f4f68e0e26f0bb7960be334d5b520ea452/library/std/src/panicking.rs:581:40
+  16: std::panicking::catch_unwind::<i32, &dyn core::ops::function::Fn<(), Output = i32> + core::panic::unwind_safe::RefUnwindSafe + core::marker::Sync>
+             at /rustc/8bab26f4f68e0e26f0bb7960be334d5b520ea452/library/std/src/panicking.rs:544:19
+  17: std::panic::catch_unwind::<&dyn core::ops::function::Fn<(), Output = i32> + core::panic::unwind_safe::RefUnwindSafe + core::marker::Sync, i32>
+             at /rustc/8bab26f4f68e0e26f0bb7960be334d5b520ea452/library/std/src/panic.rs:359:14
+  18: std::rt::lang_start_internal::{closure#0}
+             at /rustc/8bab26f4f68e0e26f0bb7960be334d5b520ea452/library/std/src/rt.rs:175:24
+  19: std::panicking::catch_unwind::do_call::<std::rt::lang_start_internal::{closure#0}, isize>
+             at /rustc/8bab26f4f68e0e26f0bb7960be334d5b520ea452/library/std/src/panicking.rs:581:40
+  20: std::panicking::catch_unwind::<isize, std::rt::lang_start_internal::{closure#0}>
+             at /rustc/8bab26f4f68e0e26f0bb7960be334d5b520ea452/library/std/src/panicking.rs:544:19
+  21: std::panic::catch_unwind::<std::rt::lang_start_internal::{closure#0}, isize>
+             at /rustc/8bab26f4f68e0e26f0bb7960be334d5b520ea452/library/std/src/panic.rs:359:14
+  22: std::rt::lang_start_internal
+             at /rustc/8bab26f4f68e0e26f0bb7960be334d5b520ea452/library/std/src/rt.rs:171:5
+  23: main
+  24: __libc_start_call_main
+             at ./csu/../sysdeps/nptl/libc_start_call_main.h:58:16
+  25: __libc_start_main_impl
+             at ./csu/../csu/libc-start.c:360:3
+  26: <unknown>
+    Checking collections_18 v0.1.0 (/home/umay-samli/Desktop/notes/programing_languages/Rust/codes/collections_18)
+error: could not compile `collections_18` (lib) due to 4 previous errors
+warning: build failed, waiting for other jobs to finish...
+error: could not compile `collections_18` (lib test) due to 4 previous errors
