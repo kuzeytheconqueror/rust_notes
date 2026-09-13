@@ -49,3 +49,12 @@ pub fn iterating_over_vector() {
     }
 
 }
+// There is a deferencing symboll. I think it will need more info at the freature.
+pub fn iteration_over_vector_via_dereferncing(){
+    
+    let mut v = vec![100,32,57];
+    for i in &mut v {
+        *i =+ 50;
+    }
+    
+}
