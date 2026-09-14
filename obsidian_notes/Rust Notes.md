@@ -7,7 +7,7 @@ This is the place that I will be taking my rust related notes. There will be no 
 - https://rust-book.cs.brown.edu/ **NOT IN USE FOR NOW, WILL BE SUPLIER AT THE FEATURE.**
 
 ## Current part we are at
-- 8.3 - [Summary exercises](https://doc.rust-lang.org/stable/book/ch08-03-hash-maps.html#summary). 
+- 9.1 https://doc.rust-lang.org/stable/book/ch09-01-unrecoverable-errors-with-panic.html
 
 ---
 
