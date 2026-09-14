@@ -37,7 +37,7 @@ fn convert_strings_to_ping_latin(word: &str) -> str {
 
     
 }
-
+// You can write this more detailed.
 let mut database: HashMap<String, Vec<String>> = HashMap::new();
 
 fn add_to_db(name_of_employee: &str, name_of_department: &str){
