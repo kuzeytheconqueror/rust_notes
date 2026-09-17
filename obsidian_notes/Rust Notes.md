@@ -3,11 +3,11 @@ This is the place that I will be taking my rust related notes. There will be no 
 ## Structure of the notes
 - @Classic_Rust: This is the part that we will be taking notes about how Rust works purely. No frameworks, no extensions. 
 ## Resource for these notes are
-- https://doc.rust-lang.org/stable/book/title-page.html **CURRENT MAIN RESOURCE**
-- https://rust-book.cs.brown.edu/ **NOT IN USE FOR NOW, WILL BE SUPLIER AT THE FEATURE.**
+- https://doc.rust-lang.org/stable/book/title-page.html **Switch to brown. Especially for depth understanding of ownership**
+- https://rust-book.cs.brown.edu/ **Currently in use. Its mainly the same book but better.**
 
 ## Current part we are at
-- 9.1 https://doc.rust-lang.org/stable/book/ch09-01-unrecoverable-errors-with-panic.html
+- 4 https://rust-book.cs.brown.edu/ch04-00-understanding-ownership.html
 
 ---
 
