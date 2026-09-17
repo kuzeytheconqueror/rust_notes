@@ -1,0 +1,1 @@
+/home/umay-samli/Desktop/notes/programing_languages/Rust/codes/first_cargo_project/target/debug/first_cargo_project: /home/umay-samli/Desktop/notes/programing_languages/Rust/codes/first_cargo_project/src/main.rs

@@ -1,6 +1,0 @@
-[package]
-name = "public_enum_or_struct_15"
-version = "0.1.0"
-edition = "2024"
-
-[dependencies]

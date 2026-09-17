@@ -1,1 +1,0 @@
-/home/umay-samli/Desktop/notes/programing_languages/Rust/codes/guessing_game_04/target/debug/guessing_game_04: /home/umay-samli/Desktop/notes/programing_languages/Rust/codes/guessing_game_04/src/main.rs
