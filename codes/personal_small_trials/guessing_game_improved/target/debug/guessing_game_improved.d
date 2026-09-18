@@ -1,0 +1,1 @@
+/home/umay-samli/Desktop/notes/programing_languages/Rust/codes/personal_small_trials/guessing_game_improved/target/debug/guessing_game_improved: /home/umay-samli/Desktop/notes/programing_languages/Rust/codes/personal_small_trials/guessing_game_improved/src/main.rs

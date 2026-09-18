@@ -7,7 +7,7 @@ This is the place that I will be taking my rust related notes. There will be no 
 - https://rust-book.cs.brown.edu/ **Currently in use. Its mainly the same book but better.**
 
 ## Current part we are at
-- 4 https://rust-book.cs.brown.edu/ch04-00-understanding-ownership.html
+- 4.2 https://rust-book.cs.brown.edu/ch04-00-understanding-ownership.html
 
 ---
 
